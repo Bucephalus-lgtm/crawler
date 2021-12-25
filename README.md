@@ -39,8 +39,7 @@ npm start
 
  - Whole script written in asynchronous mode.
  - Within a nameless async function(to run immediately), function ```fetchPage(url)``` is called with the [url](https://stackoverflow.com/questions) as input.
- - This function is responsible for parsing the HTML elements and thus
- - obtaining the required fields.
+ - This function is responsible for parsing the HTML elements and thus obtaining the required fields.
  - Within ```fetchPage(url)```
     - Axios make the HTTP request to the input url.
     - Cheerio then parses the html file.
