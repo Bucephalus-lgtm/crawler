@@ -50,7 +50,7 @@ npm start
     - Then we increment the current page by 1.
     - Thus **nextUrl** obtained.
     - Update the **mergedArray** with this current page's harvested datas.
-    - Recursively call the function ```fetchPage(url)``` with the **nextUrl**.
+    - Recursively call the function ```fetchPage(url)``` with the **nextUrl** as input.
 - After the ```fetchPage(url)``` function gets called, saved the datas to mongodb database.
 - Importantly, we keep checking for the node.js process killed.
 - When the process is killed, the data harvested so far gets saved as **output.csv** in the root directory.
