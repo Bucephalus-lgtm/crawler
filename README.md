@@ -1,7 +1,7 @@
 
 # Web Scrapping with Cheerio and Axios 
 
-This is a to crawler based on the top of Node.js for harvesting 
+This is a web crawler based on the top of Node.js for harvesting 
 the unique question url, and their corresponding info like referenceCount(s),
 upvote(s) and answer(s) from [stackoverflow](https://stackoverflow.com/questions).
 
