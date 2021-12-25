@@ -1,5 +1,5 @@
 
-# Web Scrapping with Cheerio and Axios 
+# Web Scraping with Cheerio and Axios 
 
 This is a web crawler built on the top of Node.js for harvesting 
 the unique question url, and their corresponding info like referenceCount(s),
