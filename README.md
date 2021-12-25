@@ -8,7 +8,7 @@ upvote(s) and answer(s) from [stackoverflow](https://stackoverflow.com/questions
 
 ## Installation & Use
 
-First get the repo on your PC ready by cloning it from github
+First get the repo ready on your PC by cloning it from github
 ```
   git clone https://github.com/Bucephalus-lgtm/crawler.git
 ```
