@@ -28,8 +28,8 @@ npm start
 ## Features
 #### What our crawler do?
 
-- Find every uniq question url from the site.
-- Total reference count for every URL.
+- Find every unique question url from the site.
+- Total reference counts for every URL.
 - Total count of upvotes and answers for every question.
 - Data saved in mongoDB after processed fully.
 - Data saved as CSV file whenever it gets killed.
