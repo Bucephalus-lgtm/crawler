@@ -10,7 +10,7 @@ upvote(s) and answer(s) from [stackoverflow](https://stackoverflow.com/questions
 
 First get the repo on your PC ready by cloning it from github
 ```
-  git clone git remote add origin https://github.com/Bucephalus-lgtm/crawler.git
+  git clone https://github.com/Bucephalus-lgtm/crawler.git
 ```
 
 Then, install the required library 
